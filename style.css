@@ -1,0 +1,17 @@
+body{
+    background-color: pink;
+}
+.heading{
+    background-color: white;
+    width: 75%;
+    font-size: 15px;
+}
+p{
+    color: white;
+}
+.name_of_objects{
+    color: yellow;
+}
+label{
+    color: white;
+}
